@@ -20,7 +20,8 @@
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Node" src="https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-darkblue?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
@@ -45,7 +46,7 @@ Development of the Proffy website, this project given on week 2 of Rocketseat's 
 
 Profy is a Web and Mobile application designed to help connect students and teachers. Therefore, this application offers teachers the possibility of registering classes, being able to add information such as the discipline, cost and time, and for students the possibility of searching for registered classes.
 
-![app](https://github.com/antuniooh/ProffyProject/blob/master/images/app.gif)
+![app](https://github.com/antuniooh/ProffyProject/blob/main/images/app.gif)
 
 
 <!-- HOW TO RUN -->
